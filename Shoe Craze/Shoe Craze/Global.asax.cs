@@ -1,4 +1,5 @@
-﻿using System;
+﻿using eCommerce;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -16,6 +17,16 @@ namespace Shoe_Craze
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            //IoC will get ready with all the dependency object
+            //UnityConfig.RegisterTypes(UnityConfig.Container);
+        }
+        protected void Session_Start()
+        {
+            Session["Role"] = string.Empty;
+        }
+        protected void Session_End()
+        {
+            Session["Role"] = null;
         }
     }
 }

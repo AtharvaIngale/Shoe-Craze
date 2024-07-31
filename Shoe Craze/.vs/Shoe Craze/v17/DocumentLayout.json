@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\UnityConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shoe Craze\\App_Start\\UnityConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}|Shoe Craze\\Shoe Craze.csproj|d:\\atharva\\programs\\dot net\\shoe-craze\\shoe craze\\shoe craze\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}|Shoe Craze\\Shoe Craze.csproj|solutionrelative:shoe craze\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}|Shoe Craze\\Shoe Craze.csproj|d:\\atharva\\programs\\dot net\\shoe-craze\\shoe craze\\shoe craze\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}|Shoe Craze\\Shoe Craze.csproj|solutionrelative:shoe craze\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}|Shoe Craze\\Shoe Craze.csproj|d:\\atharva\\programs\\dot net\\shoe-craze\\shoe craze\\shoe craze\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}|Shoe Craze\\Shoe Craze.csproj|solutionrelative:shoe craze\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}|Shoe Craze\\Shoe Craze.csproj|d:\\atharva\\programs\\dot net\\shoe-craze\\shoe craze\\shoe craze\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}|Shoe Craze\\Shoe Craze.csproj|solutionrelative:shoe craze\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnityConfig.cs",
+              "DocumentMoniker": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\UnityConfig.cs",
+              "RelativeDocumentMoniker": "Shoe Craze\\App_Start\\UnityConfig.cs",
+              "ToolTip": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\UnityConfig.cs",
+              "RelativeToolTip": "Shoe Craze\\App_Start\\UnityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:23:27.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Shoe Craze\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Shoe Craze\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:19:53.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Shoe Craze\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Shoe Craze\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:14:51.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Shoe Craze\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Shoe Craze\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:14:46.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Shoe Craze\\Global.asax.cs",
+              "ToolTip": "D:\\ATHARVA\\PROGRAMS\\Dot Net\\Shoe-Craze\\Shoe Craze\\Shoe Craze\\Global.asax.cs",
+              "RelativeToolTip": "Shoe Craze\\Global.asax.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:14:32.801Z",
+              "EditorCaption": ""
             }
           ]
         }
