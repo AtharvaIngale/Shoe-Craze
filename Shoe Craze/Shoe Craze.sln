@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoe Craze", "Shoe Craze\Shoe Craze.csproj", "{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoe Craze", "..\..\DotNet-CDAC-PG-DAC\Class Notes\Day 8\Programs\eCommerce\eCommerce\Shoe Craze.csproj", "{1FEBD62C-67E9-4410-8006-E8C167F0524D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F87F6E90-A01D-4464-B96F-DC67C8B4A4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEBD62C-67E9-4410-8006-E8C167F0524D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEBD62C-67E9-4410-8006-E8C167F0524D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEBD62C-67E9-4410-8006-E8C167F0524D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEBD62C-67E9-4410-8006-E8C167F0524D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
